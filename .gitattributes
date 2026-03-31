@@ -1,0 +1,2 @@
+#Set word documents to binary for potential merging issues
+*.docx    binary
